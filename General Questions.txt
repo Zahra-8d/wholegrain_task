@@ -1,0 +1,18 @@
+General Questions
+---------------------
+
+Tell us one thing you find most websites are doing poorly? How would you fix it?
+
+In my opinion many current websites often use a messy and haphazard layout in the name of artsy asthetics. 
+These are often difficult to navigate and unintuitive to use. 
+I think that modern websites should look sleek and also be easy to use at the same time. 
+I like to build and design with the end user in mind at all times, this also includes people with disabilites and so making the website as accessible as possible is very important
+
+One of our staff is facing a bug on the website you cannot reproduce. How would you proceed?
+
+I would ask for the following:
+1) Step by step instruction on reproducing the bug, perhaps with screenshots
+2) If that does not work then ask to share their screen to see exactly what they are doing
+3) It could be a browser compatibility issue, so try in the same browser
+4) May be a device specific issue, find out what device is being used
+5) Could be user specific issue that could be replicated by logging in as their user to reproduce
